@@ -1,6 +1,5 @@
-# PhonePe-Transaction-Insights-Dashboard
-PhonePe Transaction Insights Dashboard 
-📊 PhonePe Pulse Data Visualization Dashboard
+# PhonePe-Transaction-Insights-Dashboard 
+**📊 PhonePe Pulse Data Visualization Dashboard**
 **📌 Project Overview****
 This project is a Streamlit-based interactive dashboard built using the PhonePe Pulse dataset.
 It visualizes digital payment trends in India, including transactions, users, insurance, and geographic insights.
