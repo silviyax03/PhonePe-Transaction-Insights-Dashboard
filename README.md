@@ -4,7 +4,6 @@
 **📌 Project Overview****
 
 This project is a Streamlit-based interactive dashboard built using the PhonePe Pulse dataset.
-
 It visualizes digital payment trends in India, including transactions, users, insurance, and geographic insights.
 
 The dashboard helps to understand how digital payments are growing across different states and time periods.
