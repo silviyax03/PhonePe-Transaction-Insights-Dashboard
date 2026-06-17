@@ -168,14 +168,21 @@ ________________________________________
 ________________________________________
 🏗️ Project Structure
 ```
-phonepe-project/
-│
-├── app.py
-├── phonepe.db
-├── data/
-│
-├── README.md
-└── requirements.txt
+PhonePe Pulse GitHub Dataset
+            ↓
+      JSON Files
+            ↓
+     Python Extraction
+            ↓
+      SQLite Database
+            ↓
+      9 SQL Tables
+            ↓
+    Data Analysis (Pandas)
+            ↓
+ Streamlit Dashboard
+            ↓
+ Business Insights
 ```
 ________________________________________
 **🎯 Final Note**
